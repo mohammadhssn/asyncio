@@ -1,5 +1,6 @@
 """
-    Cancel
+    Cancel:
+        doc -> https://docs.python.org/3/library/asyncio-task.html?highlight=cancel#asyncio.Task.cancel
 """
 
 import asyncio

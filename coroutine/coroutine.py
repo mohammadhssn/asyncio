@@ -1,5 +1,6 @@
 """
-    Coroutine
+    Coroutine:
+        doc -> https://docs.python.org/3/library/asyncio-task.html?highlight=gather#coroutines
 """
 
 import asyncio
